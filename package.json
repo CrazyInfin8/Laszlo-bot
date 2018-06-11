@@ -1,0 +1,17 @@
+{
+    "name": "laszlo-bot",
+    "dependencies": {
+        "better-sqlite3": "^4.1.1",
+        "discord.js": "^11.3.2",
+        "dotenv": "^6.0.0",
+        "express": "^4.16.3"
+    },
+    "scripts": {
+        "start": "app.js"
+    },
+    "license": "WTFPL",
+    "repository": {
+        "type": "",
+        "url": ""
+    }
+}
